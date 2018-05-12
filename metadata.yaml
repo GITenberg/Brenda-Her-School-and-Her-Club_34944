@@ -1,0 +1,38 @@
+_repo: Brenda-Her-School-and-Her-Club_34944
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Jessie Willcox
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '7158'
+    url: http://www.gutenberg.org/2009/agents/7158
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Helen Leah
+    deathdate: 1926
+    gutenberg_agent_id: '37330'
+    url: http://www.gutenberg.org/2009/agents/37330
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Boston (Mass.) -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+title: Brenda, Her School and Her Club
+url: http://www.gutenberg.org/ebooks/34944
